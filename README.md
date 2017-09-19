@@ -1,2 +1,0 @@
-# permagedit
-permag edit
